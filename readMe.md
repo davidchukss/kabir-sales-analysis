@@ -17,6 +17,7 @@ Sales performance shows an overall declining trend, with 2012 recording a signif
 ![alt text](<Screenshot (13).png>)
 ![alt text](<Screenshot (14).png>)
 ![alt text](<Screenshot (15).png>)
+![alt text](<Screenshot (12).png>)
 
 
 ### 3. Business Recommendations
